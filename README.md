@@ -1,4 +1,6 @@
-# Bioinformatics Online Resources
+# Bioinformatics Resources
+
+## Publications
 
 ## PacBio 
 
